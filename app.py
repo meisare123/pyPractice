@@ -19,7 +19,6 @@
 
 # firstNum = input("Enter your first number: ")
 # secondNum = input("Enter your second number: ")
-<<<<<<< HEAD
 #
 # sum = float(firstNum) + float(secondNum)
 #
@@ -61,21 +60,3 @@ r2 = Robot("Jerry", "blue", 40)
 
 r1.introduceSelf()
 r2.introduceSelf()
-=======
-
-# sum = float(firstNum) + float(secondNum)
-
-# print("Sum: " + str(sum))
-
-# firstNum = float(input("Enter your first number: "))
-# secondNum = float(input("Enter your second number: "))
-#
-# sum = str(firstNum + secondNum)
-#
-# print("Sum: " + sum)
-
-# course = 'python for beginners'
-# print(course.replace('for', '4'))
-# print(course)
->>>>>>> 6d85c652e2e228c201ba2962217635a92bdd556c
-
