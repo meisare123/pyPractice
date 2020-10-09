@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="276cf3e1-fdab-4869-bf35-a0b37a6e4823" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.practice">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,8 +52,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practice" />
         <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
@@ -70,26 +92,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl" timestamp="1602087173993">
+    <state x="180" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602202483882">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602087173993" />
-    <state width="1278" height="186" key="GridCell.Tab.0.bottom" timestamp="1602117423482">
+    <state x="180" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602202483882" />
+    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl" timestamp="1602178978617">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="186" key="GridCell.Tab.0.bottom/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602117423482" />
-    <state width="1278" height="186" key="GridCell.Tab.0.center" timestamp="1602117423482">
+    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602178978617" />
+    <state width="1278" height="186" key="GridCell.Tab.0.bottom" timestamp="1602203466803">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="186" key="GridCell.Tab.0.center/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602117423482" />
-    <state width="1278" height="186" key="GridCell.Tab.0.left" timestamp="1602117423482">
+    <state width="1278" height="186" key="GridCell.Tab.0.bottom/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602203466803" />
+    <state width="1278" height="186" key="GridCell.Tab.0.center" timestamp="1602203466803">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="186" key="GridCell.Tab.0.left/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602117423482" />
-    <state width="1278" height="186" key="GridCell.Tab.0.right" timestamp="1602117423482">
+    <state width="1278" height="186" key="GridCell.Tab.0.center/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602203466803" />
+    <state width="1278" height="186" key="GridCell.Tab.0.left" timestamp="1602203466803">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="186" key="GridCell.Tab.0.right/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602117423482" />
+    <state width="1278" height="186" key="GridCell.Tab.0.left/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602203466803" />
+    <state width="1278" height="186" key="GridCell.Tab.0.right" timestamp="1602203466803">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="186" key="GridCell.Tab.0.right/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602203466803" />
     <state x="209" y="34" key="SettingsEditor" timestamp="1601598824409">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
