@@ -40,3 +40,4 @@ def countEven(numList):
         if (i % 2 == 0):
             total += 1
     return total
+
