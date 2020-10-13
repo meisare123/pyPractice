@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="276cf3e1-fdab-4869-bf35-a0b37a6e4823" name="Default Changelist" comment="" />
+    <list default="true" id="276cf3e1-fdab-4869-bf35-a0b37a6e4823" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moshpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/moshpy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Automation/pdci-keyword" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Python.moshpy">
@@ -116,33 +119,33 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="180" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602202483882" />
-    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl" timestamp="1602259666695">
+    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl" timestamp="1602523730950">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602259666695" />
-    <state width="1278" height="186" key="GridCell.Tab.0.bottom" timestamp="1602289438135">
+    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602523730950" />
+    <state width="1278" height="186" key="GridCell.Tab.0.bottom" timestamp="1602549923206">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="186" key="GridCell.Tab.0.bottom/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602289438135" />
-    <state width="1278" height="186" key="GridCell.Tab.0.center" timestamp="1602289438135">
+    <state width="1278" height="186" key="GridCell.Tab.0.bottom/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602549923206" />
+    <state width="1278" height="186" key="GridCell.Tab.0.center" timestamp="1602549923205">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="186" key="GridCell.Tab.0.center/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602289438135" />
-    <state width="1278" height="186" key="GridCell.Tab.0.left" timestamp="1602289438134">
+    <state width="1278" height="186" key="GridCell.Tab.0.center/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602549923205" />
+    <state width="1278" height="186" key="GridCell.Tab.0.left" timestamp="1602549923205">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="186" key="GridCell.Tab.0.left/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602289438134" />
-    <state width="1278" height="186" key="GridCell.Tab.0.right" timestamp="1602289438135">
+    <state width="1278" height="186" key="GridCell.Tab.0.left/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602549923205" />
+    <state width="1278" height="186" key="GridCell.Tab.0.right" timestamp="1602549923206">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="186" key="GridCell.Tab.0.right/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602289438135" />
+    <state width="1278" height="186" key="GridCell.Tab.0.right/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602549923206" />
     <state x="209" y="34" key="SettingsEditor" timestamp="1601598824409">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="209" y="34" key="SettingsEditor/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1601598824409" />
-    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602116477758">
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602549028018">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602116477758" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.24.1301.744/1366.0.1600.900@65.24.1301.744" timestamp="1602549028018" />
   </component>
 </project>
